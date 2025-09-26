@@ -8,3 +8,9 @@ Video :
 Query's NoteBook: 
 https://jupyter.org/try-jupyter/notebooks/index.html?path=Individual_Group1_HW%232_Bryan_Sanchez.ipynb
 
+
+Alexander Bulatao
+Video: https://www.youtube.com/watch?v=aG4ejZjlYOU
+
+
+Notebook: https://jupyter.org/try-jupyter/notebooks/?path=Individual_Group1_HW3_AlexanderBulatao.ipynb
