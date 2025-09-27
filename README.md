@@ -17,4 +17,5 @@ Notebook: https://jupyter.org/try-jupyter/notebooks/?path=Individual_Group1_HW3_
 
 Andrea Gomez
 Video: https://www.youtube.com/watch?v=5XZpVo4L1AY
-Notebook:
+
+Notebook:https://github.com/101AG/AndreaG_Project/blob/main/Individual_Group1_HW3_AndreaGomez.ipynb
